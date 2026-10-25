@@ -1,0 +1,3 @@
+[submodule "vendor/sail-framework"]
+	path = vendor/sail-framework
+	url = https://github.com/PedroVictorCoding/sail-framework.git
